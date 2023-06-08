@@ -1,1 +1,3 @@
-# aiffel_mini_prject
+# Aiffel_mini_prject
+
+### 1. 미니프로젝트
