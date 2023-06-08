@@ -1,3 +1,9 @@
-# Aiffel_mini_prject
+# Aiffel Mini Project
 
-### 1. 미니프로젝트
+### Explorestage 01 - Machine Learning Mini Project
+- sklearn module
+- machine learning models
+- Hand-written digits classification
+- Wine classification
+- Breast cancer diagnosis
+- Overall Reflection
