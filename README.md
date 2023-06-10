@@ -6,4 +6,9 @@
 - Hand-written digits classification
 - Wine classification
 - Breast cancer diagnosis
-- Overall Reflection
+
+## Explorestage 01 - Machine Learning Mini Project
+- sklearn module
+- machine learning models
+- linear regression
+- diabetes regression
