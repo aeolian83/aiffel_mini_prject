@@ -23,3 +23,16 @@
 - EDA(Exploratory data analysis)
 
 
+## Explorestage 04 - Machine Learning Mini Project
+- sklearn module
+- machine learning models
+- Time series data prediction
+- ARIMA model
+
+
+## Explorestage 05 - Deep Learning Mini Project
+- Tensorflow
+- Convolution Neural Network
+- Data augmentation
+- Hyper parameter
+- Activation function
