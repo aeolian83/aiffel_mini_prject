@@ -8,7 +8,7 @@
 - Breast cancer diagnosis
 
 
-## Explorestage 01 - Machine Learning Mini Project
+## Explorestage 02 - Machine Learning Mini Project
 - sklearn module
 - machine learning models
 - linear regression from scratch
