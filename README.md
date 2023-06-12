@@ -60,3 +60,9 @@
 - Tokenizing
 - Mecab
 - Word2Vec
+
+
+## Explorestage 09 - Deep Learning(Computer Vision) Mini project
+- Semantic segmentation
+- Tensorflow
+- Convolution Neural Network
