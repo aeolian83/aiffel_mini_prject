@@ -51,3 +51,12 @@
 - OpenCV library
 
 
+## Explorestage 08 - Deep Learning(Natural Language Processing) Mini project
+- Sentiment Analysis
+- Tensorflow
+- LSTM(Long Short-Term Memory)
+- Convolution Neural Network
+- Embadding
+- Tokenizing
+- Mecab
+- Word2Vec
