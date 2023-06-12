@@ -44,3 +44,10 @@
 - Hyper parameter
 - Embadding
 - Tokenizing
+
+
+## Explorestage 07 - Computer Vision Mini project
+- dlib library
+- OpenCV library
+
+
