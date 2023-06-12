@@ -36,3 +36,11 @@
 - Data augmentation
 - Hyper parameter
 - Activation function
+
+
+## Explorestage 06 - Deep Learning Mini Project
+- Tensorflow
+- Recurrent Neural Network
+- Hyper parameter
+- Embadding
+- Tokenizing
