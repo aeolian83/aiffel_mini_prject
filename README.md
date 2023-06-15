@@ -66,3 +66,10 @@
 - Semantic segmentation
 - Tensorflow
 - Convolution Neural Network
+
+
+## Explorestage 10 - Deep Learning(Natural Language Processing) Mini project
+- Seq2seq
+- Tensorflow
+- LSTM(Long Short-Term Memory)
+- Tokenizer
