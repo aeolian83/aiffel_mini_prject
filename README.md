@@ -1,3 +1,6 @@
+# Jungki's CV 
+- https://aeolian83.github.io/
+
 # Aiffel Mini Project
 
 ## Explorestage 01 - Machine Learning Mini Project
