@@ -1,5 +1,5 @@
-# Jungki's CV 
-[CV](https://aeolian83.github.io/){:target="_blank"}
+# Jungki's CV
+<a href="https://aeolian83.github.io/" target="_blank">CV</a>
 
 
 # Aiffel Mini Project
