@@ -1,6 +1,5 @@
 # Jungki's CV 
 [CV](https://aeolian83.github.io/){: target="_blank"}
-<a href="http://example.com/" target="_blank">example</a>
 
 
 # Aiffel Mini Project
