@@ -1,5 +1,5 @@
 # Jungki's CV 
-- https://aeolian83.github.io/
+<- https://aeolian83.github.io/>{: target="_blank"}
 
 # Aiffel Mini Project
 
